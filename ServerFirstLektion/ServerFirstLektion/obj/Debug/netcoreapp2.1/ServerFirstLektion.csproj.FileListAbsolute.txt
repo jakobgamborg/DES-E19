@@ -1,0 +1,4 @@
+C:\Users\jakob\Documents\GitHub\DES-E19\ServerFirstLektion\ServerFirstLektion\obj\Debug\netcoreapp2.1\ServerFirstLektion.csprojAssemblyReference.cache
+C:\Users\jakob\Documents\GitHub\DES-E19\ServerFirstLektion\ServerFirstLektion\obj\Debug\netcoreapp2.1\ServerFirstLektion.csproj.CoreCompileInputs.cache
+C:\Users\jakob\Documents\GitHub\DES-E19\ServerFirstLektion\ServerFirstLektion\obj\Debug\netcoreapp2.1\ServerFirstLektion.AssemblyInfoInputs.cache
+C:\Users\jakob\Documents\GitHub\DES-E19\ServerFirstLektion\ServerFirstLektion\obj\Debug\netcoreapp2.1\ServerFirstLektion.AssemblyInfo.cs

@@ -1,8 +1,8 @@
-﻿½using System;
+﻿using System;
 using System.Text;
 using System.Net;
 using System.Net.Sockets;
-using IPAddress;
+namespace System.Net.IPAddress;
 
 public class Server
 {
